@@ -13,5 +13,3 @@ Now the project does not work well on the understanding of the words meaning and
 Solution:
 1. Take the English meaning into account. In the file there are English meaning also, so may be that will help on understanding the meaning of all the words.
 2. Change the logic of the words embedding. Reset the function of calculating, to focus the attention on the true important words.
-
-Add the current challenges and my thinking of solutions.
